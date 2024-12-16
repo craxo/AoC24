@@ -1,0 +1,15 @@
+/workspaces/AoC24/bin/Debug/net8.0/AoC24
+/workspaces/AoC24/bin/Debug/net8.0/AoC24.deps.json
+/workspaces/AoC24/bin/Debug/net8.0/AoC24.runtimeconfig.json
+/workspaces/AoC24/bin/Debug/net8.0/AoC24.dll
+/workspaces/AoC24/bin/Debug/net8.0/AoC24.pdb
+/workspaces/AoC24/obj/Debug/net8.0/AoC24.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/AoC24/obj/Debug/net8.0/AoC24.AssemblyInfoInputs.cache
+/workspaces/AoC24/obj/Debug/net8.0/AoC24.AssemblyInfo.cs
+/workspaces/AoC24/obj/Debug/net8.0/AoC24.csproj.CoreCompileInputs.cache
+/workspaces/AoC24/obj/Debug/net8.0/AoC24.sourcelink.json
+/workspaces/AoC24/obj/Debug/net8.0/AoC24.dll
+/workspaces/AoC24/obj/Debug/net8.0/refint/AoC24.dll
+/workspaces/AoC24/obj/Debug/net8.0/AoC24.pdb
+/workspaces/AoC24/obj/Debug/net8.0/AoC24.genruntimeconfig.cache
+/workspaces/AoC24/obj/Debug/net8.0/ref/AoC24.dll
